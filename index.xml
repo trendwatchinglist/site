@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elate theme</title>
-    <link>localhost:1313/</link>
-    <description>Recent content on Elate theme</description>
+    <title>Trend Watching List</title>
+    <link>/</link>
+    <description>Recent content on Trend Watching List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2017 10:58:22 -0300</lastBuildDate>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>contato</title>
+      <link>/contato/</link>
+      <pubDate>Sat, 06 May 2017 10:58:22 -0300</pubDate>
+      
+      <guid>/contato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quemsomos</title>
+      <link>/quemsomos/</link>
+      <pubDate>Sat, 06 May 2017 10:58:11 -0300</pubDate>
+      
+      <guid>/quemsomos/</guid>
+      <description>aqui teste</description>
+    </item>
+    
+    <item>
+      <title>sobre</title>
+      <link>/sobre/</link>
+      <pubDate>Sat, 06 May 2017 10:57:51 -0300</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>Sendo profissionais da área tecnologia e sistemas de informação temos visto que impactantes mudanças estão para acontecer um futuro próximo (2-5 anos).
+Essas mudanças irão afetar drasticamente o mercado de trabalho e negócios.
+Não temos visto as pessoas se prepararem adequadamente para os novos cenários.
+Então decidimos criar este canal para comunicar melhor o que já estamos percebendo.</description>
+    </item>
     
   </channel>
 </rss>
